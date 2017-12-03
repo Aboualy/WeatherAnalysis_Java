@@ -1,0 +1,1 @@
+The project of the programming part of statistics and probability course
